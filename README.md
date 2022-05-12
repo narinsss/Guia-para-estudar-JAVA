@@ -6,7 +6,7 @@ Um modo que tenho que fixar os estudos é fazer anotações, destacando por impo
 #### Variáveis ↴
 
 - char = ' 66 '  - aspas simples (apenas 1 caractere);
-- String = ' macacos' - aspas duplas;
+- String = '' exemplo'' - aspas duplas;
 - Float = número com ponto flutuante (pouco usado);
 - Int = número real;
 - double = números decimais (mais utilizado);
